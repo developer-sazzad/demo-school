@@ -34,5 +34,5 @@ Welcome to **Demo School Management System** – a sleek, responsive and real-ti
 
 | Home Page | Results | Notices | Admin Panel |
 |-----------|-------------|-------------|
-| ![Home] (https://fir-school-client.web.app/) | ![Results](https://fir-school-client.web.app/results) | ![Admin](https://fir-school-client.web.app/admin) |
+
 
